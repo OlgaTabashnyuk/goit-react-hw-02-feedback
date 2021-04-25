@@ -1,0 +1,18 @@
+.ButtonList {
+    padding: 10px;
+}
+.ButtonItems {
+    margin-right: 8px;
+    padding: 5px 10px;
+    font-weight: 500;
+    background-color: lightskyblue;
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: transparent;
+    transition: transform 250ms linear;
+}
+.ButtonItems:hover {
+    background-color: midnightblue;
+    color: white;
+    transform: scale(1.05);
+}

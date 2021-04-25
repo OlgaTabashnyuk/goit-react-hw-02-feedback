@@ -1,0 +1,13 @@
+.statistics {
+  width: 200px;
+  padding-top: 10px;
+  margin-bottom: 20px;
+  list-style: none;
+}
+
+.statistics__item {
+  padding: 3px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 15px;
+}
